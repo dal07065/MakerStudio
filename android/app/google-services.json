@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "593997139780",
+    "project_id": "makerstudio-8729a",
+    "storage_bucket": "makerstudio-8729a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593997139780:android:84f7be5b15f49300395111",
+        "android_client_info": {
+          "package_name": "com.linakang.makerstudio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "593997139780-ha6f3cehgdtvmdgo1jqs5ome1v3irc4e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9Hvm4Yo8J9oOPm3UJZRkIXsOH_EjLKiE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "593997139780-ha6f3cehgdtvmdgo1jqs5ome1v3irc4e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "593997139780-il3eimhau6cf4scn6ks9lap5nq9qtjk3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.linakang.makerstudio"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
